@@ -1,0 +1,17 @@
+[Adblock Plus]
+! Version: 1
+! Title: AntiRevoke Sideload Blocklist
+! Description: Block relvent domains to prevent revocation
+! Syntax: Adblock Plus Filter List
+! Entries: 11
+! Last modified: 2024-10-24
+! Expires: 1 hours
+! Maintainer: NoozPrime
+
+||ocsp.apple.com^
+||ocsp2.apple.com^
+||valid.apple.com^
+||crl.apple.com^
+||certs.apple.com^
+||appattest.apple.com^
+||vpp.itunes.apple.com^
