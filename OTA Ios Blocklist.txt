@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Version: 1
-! Title: Addons AntiRevoke Sideload Blocklist
+! Title: OTA Ios Blocklist
 ! Description: Block relvent domains to prevent revocation
 ! Homepage: https://github.com/NoozPrime/AntiRekove-domains-Blocklists
 ! Syntax: Adblock Plus Filter List
