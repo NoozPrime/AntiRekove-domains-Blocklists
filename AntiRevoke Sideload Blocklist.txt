@@ -4,7 +4,7 @@
 ! Description: Block relvent domains to prevent revocation
 ! Homepage: https://github.com/NoozPrime/AntiRekove-domains-Blocklists
 ! Syntax: Adblock Plus Filter List
-! Entries: 7
+! Entries: 9
 ! Last modified: 2024-10-24
 ! Expires: 1 hours
 ! Maintainer: NoozPrime
