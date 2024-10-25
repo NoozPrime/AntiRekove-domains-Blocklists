@@ -16,5 +16,5 @@
 ||certs.apple.com^
 ||appattest.apple.com^
 ||vpp.itunes.apple.com^
-@@||app.localhost.direct^
+@@||app.localhost.direct
 
