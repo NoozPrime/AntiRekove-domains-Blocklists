@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 1
+! Version: 2024.1025
 ! Title: AntiRevoke Sideload Blocklist
 ! Description: Block relvent domains to prevent revocation
 ! Homepage: https://github.com/NoozPrime/AntiRekove-domains-Blocklists
