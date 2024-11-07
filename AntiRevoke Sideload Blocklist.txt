@@ -1,12 +1,12 @@
 [Adblock Plus]
-! Version: 2024.1026
+! Version: 2024.1107
 ! Title: AntiRevoke Sideload Blocklist
 ! Description: Block relvent domains to prevent revocation
 ! Homepage: https://github.com/NoozPrime/AntiRekove-domains-Blocklists
 ! Syntax: Adblock Plus Filter List
-! Entries: 18
-! Last modified: 2024-10-26
-! Expires: 1 hours
+! Entries: 22
+! Last modified: 2024-11-07
+! Expires: N/A
 ! Maintainer: NoozPrime
 
 ||ocsp.apple.com^
@@ -25,4 +25,9 @@
 @@||fmhy.net^|$important
 @@||api.adpty.io^|$important
 @@||enmity.unbound.rip^|$important
+@@||api.push.apple.com^|$important
+@@||push.apple.com^|$important
+@@||appldnld.apple.com^|$important
+@@||mzstatic.com^|$important
+
 
