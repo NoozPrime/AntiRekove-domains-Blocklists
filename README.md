@@ -6,3 +6,4 @@
 
 ### Update 
 - Added feather in the filters lists
+- Added Apple notifications Fixed
