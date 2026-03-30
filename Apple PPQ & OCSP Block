@@ -1,0 +1,15 @@
+! Title: Apple PPQ & OCSP Block
+! Description: Blocks Apple certificate validation and PPQ check domains (for use with Flarestore/ sideloading)
+! Homepage: https://github.com
+! Version: 1.0.0
+! Last modified: 2026-03-30
+! License: MIT
+!
+llppq.apple.com^
+llappattest.apple.com^
+||certs.apple.com^
+||crl.apple.com^
+llocsp.apple.com^
+llocsp2.apple.com^
+Ilvalid.apple.com^
+Ilvpp.itunes.apple.com^
